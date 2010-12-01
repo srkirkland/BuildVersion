@@ -1,0 +1,41 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="E0A71261-EDEB-44ED-A680-AEC0B7A56DE7/f:Class1.cs" caret="0" fromTop="0" />
+      <File id="9890154D-D1CB-4A2F-B115-77F854F17BD0/d:Properties/f:AssemblyInfo.cs" caret="26" fromTop="0" />
+      <File id="E0A71261-EDEB-44ED-A680-AEC0B7A56DE7/d:Properties/f:AssemblyInfo.cs" caret="28" fromTop="1" />
+      <File id="86811019-3851-4834-9812-6D1BAC26C8F3/f:Build.tasks/l:C!?Projects?Dev?BuildVersionTest?Build.tasks" caret="793" fromTop="12" />
+      <File id="86811019-3851-4834-9812-6D1BAC26C8F3/f:CommonAssemblyInfo.cs/l:C!?Projects?Dev?BuildVersionTest?CommonAssemblyInfo.cs" caret="482" fromTop="13" />
+      <File id="86811019-3851-4834-9812-6D1BAC26C8F3/f:Build.proj/l:C!?Projects?Dev?BuildVersionTest?Build.proj" caret="1076" fromTop="25" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="86811019-3851-4834-9812-6D1BAC26C8F3/f:CommonAssemblyInfo.cs/l:C!?Projects?Dev?BuildVersionTest?CommonAssemblyInfo.cs" caret="200" fromTop="4" />
+      <File id="86811019-3851-4834-9812-6D1BAC26C8F3/f:CommonAssemblyInfo.cs/l:C!?Projects?Dev?BuildVersionTest?CommonAssemblyInfo.cs" caret="433" fromTop="11" />
+      <File id="9890154D-D1CB-4A2F-B115-77F854F17BD0/d:Properties/f:AssemblyInfo.cs" caret="24" fromTop="0" />
+      <File id="E0A71261-EDEB-44ED-A680-AEC0B7A56DE7/d:Properties/f:AssemblyInfo.cs" caret="28" fromTop="1" />
+      <File id="86811019-3851-4834-9812-6D1BAC26C8F3/f:Build.proj/l:C!?Projects?Dev?BuildVersionTest?Build.proj" caret="1076" fromTop="28" />
+      <File id="86811019-3851-4834-9812-6D1BAC26C8F3/f:Build.tasks/l:C!?Projects?Dev?BuildVersionTest?Build.tasks" caret="1509" fromTop="33" />
+      <File id="86811019-3851-4834-9812-6D1BAC26C8F3/f:Build.proj/l:C!?Projects?Dev?BuildVersionTest?Build.proj" caret="474" fromTop="8" />
+      <File id="86811019-3851-4834-9812-6D1BAC26C8F3/f:Build.proj/l:C!?Projects?Dev?BuildVersionTest?Build.proj" caret="1023" fromTop="22" />
+      <File id="86811019-3851-4834-9812-6D1BAC26C8F3/f:Build.proj/l:C!?Projects?Dev?BuildVersionTest?Build.proj" caret="367" fromTop="4" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

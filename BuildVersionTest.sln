@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildVersionTest", "BuildVersionTest\BuildVersionTest.csproj", "{9890154D-D1CB-4A2F-B115-77F854F17BD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildVersionTest.Core", "BuildVersionTest.Core\BuildVersionTest.Core.csproj", "{E0A71261-EDEB-44ED-A680-AEC0B7A56DE7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build", "Build", "{86811019-3851-4834-9812-6D1BAC26C8F3}"
+	ProjectSection(SolutionItems) = preProject
+		Build.proj = Build.proj
+		Build.tasks = Build.tasks
+		CommonAssemblyInfo.cs = CommonAssemblyInfo.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9890154D-D1CB-4A2F-B115-77F854F17BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9890154D-D1CB-4A2F-B115-77F854F17BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9890154D-D1CB-4A2F-B115-77F854F17BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9890154D-D1CB-4A2F-B115-77F854F17BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0A71261-EDEB-44ED-A680-AEC0B7A56DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A71261-EDEB-44ED-A680-AEC0B7A56DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A71261-EDEB-44ED-A680-AEC0B7A56DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A71261-EDEB-44ED-A680-AEC0B7A56DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
