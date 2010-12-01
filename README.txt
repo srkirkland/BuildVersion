@@ -1,0 +1,1 @@
+Simple MSBuild Configuration: Updating Assemblies With Build Number
